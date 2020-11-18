@@ -1,0 +1,9 @@
+anyio
+asyncclick
+asyncio_mqtt
+click
+elasticsearch>=7.0.0,<8.0.0
+gpsd-py3
+PyYAML
+python-json-logger
+requests
